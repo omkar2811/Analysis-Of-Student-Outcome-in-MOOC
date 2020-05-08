@@ -68,3 +68,27 @@ Only one of the two attributes can be taken into the final
 classification model.
 
 ![Correlation matrix](https://github.com/omkar2811/Analysis-Of-Student-Outcome-in-MOOC/blob/master/Output/Correleance_1.png)
+
+Applying Supervised ML Algorithms: 
+We are going to use the supervised machine learning algorithms for 
+classification problem 
+1.Random Forest. 
+
+2.Decision Tree.
+
+3.Gaussian Naive Bayes. 
+
+4.Gradient Boosting. 
+
+5.Linear Discriminant Analysis.
+
+6.Logistic Regression.
+
+7.Ada Boosting.
+
+8.Multi Layer Perceptron(Neural Network). 
+
+# Results
+![Result](https://github.com/omkar2811/Analysis-Of-Student-Outcome-in-MOOC/blob/master/Output/Comparison,png)
+
+![Result](https://github.com/omkar2811/Analysis-Of-Student-Outcome-in-MOOC/blob/master/Output/Comparison1,png)
