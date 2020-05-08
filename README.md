@@ -13,12 +13,9 @@ interacting with the courseware is captured.Data captured from MOOCs
 can provide valuable information for educators by analysing the patterns
 present in the behaviour of learners.
 
-#Objective:
-A common pattern observed is large early dropout and low 
-completion rate of a particular course. 
-
-Early dropout predictions will provide a framework for developing 
-mechanisms in MOOCs that provide individualized guidance and 
+# Objective:
+A common pattern observed is large early dropout and low completion rate of a particular course. 
+Early dropout predictions will provide a framework for developing mechanisms in MOOCs that provide individualized guidance and 
 small-group support, 
 
 Increasing retention rates. Thus, an effective way to predict the outcome of a MOOC is needed. 
