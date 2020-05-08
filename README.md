@@ -23,3 +23,16 @@ Increasing retention rates. Thus, an effective way to predict the outcome of a M
 # Scope:
 To predict the outcome of user course based on behavioural and 
 demographic patterns. 
+
+# Implementation:
+In this study an extensive data pre-processing and analysis 
+techniques have been performed and exploratory analysis is 
+performed.It is divided into these main parts: 
+(i)Dataset -Harvard Dataset
+(ii)Data Pre-Processing and Imputation
+(iii)Exploratory Data Analysis
+
+After the pre-processing and exploratory data analysis we apply
+supervised learning models and perform the comparative study of
+those models.
+Results and Analysis of these algorithms is performed.
