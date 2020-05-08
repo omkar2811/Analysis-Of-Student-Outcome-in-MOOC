@@ -89,5 +89,8 @@ classification problem
 8.Multi Layer Perceptron(Neural Network). 
 
 # Results
+Comparison of Algorithms :
+
 ![Compasrison 1](https://github.com/omkar2811/Analysis-Of-Student-Outcome-in-MOOC/blob/master/Output/Comparison1.png)
+
 
