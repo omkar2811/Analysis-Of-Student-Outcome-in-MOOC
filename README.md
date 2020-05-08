@@ -27,9 +27,15 @@ demographic patterns.
 # Implementation:
 In this study an extensive data pre-processing and analysis 
 techniques have been performed and exploratory analysis is 
-performed.It is divided into these main parts: 
+performed.
+
+The dataset used in this paper was obtained from
+Harvard University
+It is divided into these main parts: 
 (i)Dataset -Harvard Dataset
+
 (ii)Data Pre-Processing and Imputation
+
 (iii)Exploratory Data Analysis
 
 After the pre-processing and exploratory data analysis we apply
@@ -92,5 +98,20 @@ classification problem
 Comparison of Algorithms :
 
 ![Compasrison 1](https://github.com/omkar2811/Analysis-Of-Student-Outcome-in-MOOC/blob/master/Output/Comparison1.png)
+
+# Refrences
+[1] A. D. Ho et al., “HarvardX and MITx: The First Year of Open
+Online Courses, Fall 2012-Summer 2013,” SSRN Electron. J., no.
+1, pp. 1–33, 2014.
+
+[2] A. D. Ho et al., “HarvardX and MITxௗ: Two Years of Open
+Online Courses Fall 2012-Summer 2014,” SSRN Electron. J., no.
+10, pp. 1–37, 2015.
+
+[3] Raghad AL-Shabandar,Abir Hussain,Andy Laws
+Robert Keight, Janet Lunn
+Naeem Radi " Machine Learning Approaches to Predict Learning
+Outcomes in Massive Open Online Courses", 2017
+
 
 
