@@ -36,3 +36,33 @@ After the pre-processing and exploratory data analysis we apply
 supervised learning models and perform the comparative study of
 those models.
 Results and Analysis of these algorithms is performed.
+
+# Data Pre Processing and Imputations:
+
+Downcasting of integer and float values. 
+The objects are converted into categorical values. 
+Almost by 82​ %​ reduction in memory usage is obtained and thus 
+further preprocessing can be done. 
+FInal Memory reduced from 381MB to 69MB​ . 
+ 
+# Imputation Techniques: 
+● Deleting rows. 
+● Replace with mean/median/mode. 
+● Assigning unique category. 
+● Predicting the missing values using supervised machine learning 
+algorithms. 
+● Using algorithms which support missing values.
+
+# Exploratory data analysis
+●The correlation heatmap was applied to measure the dependency
+between the behavioral data and learners certification.So the
+certification is highly positive correlation with ndaysact which
+coefficient value 0.68 and with no of events and no of chapters its
+coefficient value is 0.64 so it is moderately positive correlation.
+The plot of correlation heatmap, which indicates a positive
+relationship between three behavioral attributes and the target
+variable.
+So the attributes that are highly correlated can be used to reduce the
+dimensionality of the dataset.
+Only one of the two attributes can be taken into the final
+classification model.
