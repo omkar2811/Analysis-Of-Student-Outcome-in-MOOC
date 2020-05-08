@@ -66,4 +66,5 @@ So the attributes that are highly correlated can be used to reduce the
 dimensionality of the dataset.
 Only one of the two attributes can be taken into the final
 classification model.
-!Correlation matrix(https://github.com/omkar2811/Analysis-Of-Student-Outcome-in-MOOC/blob/master/Output/Correleance_1.png)
+
+![Correlation matrix](https://github.com/omkar2811/Analysis-Of-Student-Outcome-in-MOOC/blob/master/Output/Correleance_1.png)
