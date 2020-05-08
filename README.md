@@ -46,15 +46,15 @@ further preprocessing can be done.
 FInal Memory reduced from 381MB to 69MB​ . 
  
 # Imputation Techniques: 
-● Deleting rows. 
-● Replace with mean/median/mode. 
-● Assigning unique category. 
-● Predicting the missing values using supervised machine learning 
+ Deleting rows. 
+ Replace with mean/median/mode. 
+ Assigning unique category. 
+ Predicting the missing values using supervised machine learning 
 algorithms. 
-● Using algorithms which support missing values.
+ Using algorithms which support missing values.
 
 # Exploratory data analysis
-●The correlation heatmap was applied to measure the dependency
+The correlation heatmap was applied to measure the dependency
 between the behavioral data and learners certification.So the
 certification is highly positive correlation with ndaysact which
 coefficient value 0.68 and with no of events and no of chapters its
